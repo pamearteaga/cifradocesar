@@ -1,11 +1,11 @@
 
-#Cifrado de César
+# Cifrado de César
 
 `Por Pamela Arteaga`
 
 Programa para cifrar/descifrar un palabra o frase usando el método Cifrado de César.
 
-##Seudocódigo:
+## Seudocódigo:
 
 - Consultar primero qué acción quiere realizar `(cifrar – descifrar)`por medio de un `prompt()`.
 - Luego el usuario debe ingresar el `string`.
@@ -15,7 +15,7 @@ Programa para cifrar/descifrar un palabra o frase usando el método Cifrado de C
 - Continuar con `prompt()` en caso de que no se ingrese los requerido (validación de input).
 
 
-##Diagrama de flujo:
+## Diagrama de flujo:
 
 [Diagrama de flujo](diagrama1.png)
 
